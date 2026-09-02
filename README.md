@@ -5,3 +5,4 @@
 <img width="1536" height="1024" alt="ChatGPT Image 2026年9月2日 11_47_01" src="https://github.com/user-attachments/assets/895a3ec0-9b09-40bc-8797-87084a52eabc" />
 
 
+https://youtu.be/vgclYmsc-9o?si=I7yg_Ikv155MOXqb
