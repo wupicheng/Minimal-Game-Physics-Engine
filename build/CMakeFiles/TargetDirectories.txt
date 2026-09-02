@@ -1,0 +1,16 @@
+C:/game/build/CMakeFiles/physengine.dir
+C:/game/build/CMakeFiles/pe_tests.dir
+C:/game/build/CMakeFiles/pe_demo.dir
+C:/game/build/CMakeFiles/pe_game.dir
+C:/game/build/CMakeFiles/pe_racing.dir
+C:/game/build/CMakeFiles/test.dir
+C:/game/build/CMakeFiles/edit_cache.dir
+C:/game/build/CMakeFiles/rebuild_cache.dir
+C:/game/build/_deps/catch2-build/CMakeFiles/test.dir
+C:/game/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+C:/game/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir
+C:/game/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir
+C:/game/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir
+C:/game/build/_deps/catch2-build/src/CMakeFiles/test.dir
+C:/game/build/_deps/catch2-build/src/CMakeFiles/edit_cache.dir
+C:/game/build/_deps/catch2-build/src/CMakeFiles/rebuild_cache.dir

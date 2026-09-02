@@ -1,0 +1,28 @@
+_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.obj: \
+ C:\game\build\_deps\catch2-src\src\catch2\generators\catch_generator_exception.cpp \
+ C:/game/build/_deps/catch2-src/src/catch2/generators/catch_generator_exception.hpp \
+ C:/tools/mingw64/include/c++/16.2.0/exception \
+ C:/tools/mingw64/include/c++/16.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/tools/mingw64/include/c++/16.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/tools/mingw64/include/c++/16.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/tools/mingw64/include/c++/16.2.0/pstl/pstl_config.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/exception.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/version.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/exception_ptr.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/exception_defines.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/cxxabi_init_exception.h \
+ C:/tools/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stddef.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/tools/mingw64/include/c++/16.2.0/typeinfo \
+ C:/tools/mingw64/include/c++/16.2.0/bits/hash_bytes.h \
+ C:/tools/mingw64/include/c++/16.2.0/new \
+ C:/tools/mingw64/include/c++/16.2.0/bits/new_except.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/move.h \
+ C:/tools/mingw64/include/c++/16.2.0/type_traits \
+ C:/tools/mingw64/include/c++/16.2.0/bits/nested_exception.h

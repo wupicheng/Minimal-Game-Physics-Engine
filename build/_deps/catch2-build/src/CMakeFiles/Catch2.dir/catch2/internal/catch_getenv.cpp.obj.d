@@ -1,0 +1,32 @@
+_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.obj: \
+ C:\game\build\_deps\catch2-src\src\catch2\internal\catch_getenv.cpp \
+ C:/game/build/_deps/catch2-src/src/catch2/internal/catch_getenv.hpp \
+ C:/game/build/_deps/catch2-src/src/catch2/internal/catch_platform.hpp \
+ C:/game/build/_deps/catch2-src/src/catch2/internal/catch_compiler_capabilities.hpp \
+ C:/game/build/_deps/catch2-build/generated-includes/catch2/catch_user_config.hpp \
+ C:/tools/mingw64/include/c++/16.2.0/cstddef \
+ C:/tools/mingw64/include/c++/16.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/tools/mingw64/include/c++/16.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/tools/mingw64/include/c++/16.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/tools/mingw64/include/c++/16.2.0/pstl/pstl_config.h \
+ C:/tools/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/stddef.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/version.h \
+ C:/tools/mingw64/include/c++/16.2.0/cstdlib \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/tools/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/limits.h \
+ C:/tools/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/syslimits.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/tools/mingw64/include/c++/16.2.0/stdlib.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/tools/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/mm_malloc.h \
+ C:/tools/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/tools/mingw64/include/c++/16.2.0/bits/std_abs.h

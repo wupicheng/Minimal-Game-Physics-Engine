@@ -1,0 +1,3 @@
+C:/game/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+C:/game/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+C:/game/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
